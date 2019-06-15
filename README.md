@@ -1,6 +1,6 @@
 # firefly-algorithm
 
-Simple example code for firefly algorithm benchmark
+Simple example source code of firefly algorithm benchmark function
 
 This code written in C++ language
 
